@@ -25,14 +25,14 @@ The system combines YOLO-based object detection, persistent object tracking, mot
 
 | Feature                 | Description                                    |
 | ----------------------- | ---------------------------------------------- |
-| 🎞️ Video Input         | Reads and processes video frames               |
-| 🖼️ Image Preprocessing | Resizing, denoising, and contrast enhancement  |
-| 🎯 Object Detection     | Detects objects using YOLO                     |
-| 🧭 Object Tracking      | Tracks detected objects using persistent IDs   |
-| 🏃 Motion Detection     | Identifies changes between consecutive frames  |
-| 📝 Event Logging        | Stores detected events in CSV format           |
-| 📊 Analytics            | Summarizes event counts and object information |
-| 🎬 Video Output         | Generates an annotated surveillance video      |
+|  Video Input         | Reads and processes video frames               |
+|  Image Preprocessing | Resizing, denoising, and contrast enhancement  |
+|  Object Detection     | Detects objects using YOLO                     |
+|  Object Tracking      | Tracks detected objects using persistent IDs   |
+|  Motion Detection     | Identifies changes between consecutive frames  |
+|  Event Logging        | Stores detected events in CSV format           |
+|  Analytics            | Summarizes event counts and object information |
+|  Video Output         | Generates an annotated surveillance video      |
 
 ## System Architecture
 
