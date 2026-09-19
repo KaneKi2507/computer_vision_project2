@@ -1,4 +1,4 @@
-# AI-Based Smart Surveillance & Object Tracking System
+# Smart Surveillance & Object Tracking System
 
 <p align="center">
   <b>A modular Computer Vision system for intelligent video surveillance</b>
