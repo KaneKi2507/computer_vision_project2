@@ -21,6 +21,9 @@ The **AI-Based Smart Surveillance & Object Tracking System** is a Python-based C
 
 The system combines YOLO-based object detection, persistent object tracking, motion analysis, and CSV-based event logging in a modular pipeline.
 
+Created by: Ayush Kumar Thakur
+Registration no. 24BAI10582
+
 ## Features
 
 | Feature                 | Description                                    |
@@ -68,7 +71,7 @@ The system combines YOLO-based object detection, persistent object tracking, mot
           └──────────────────┘
 ```
 
-## 🛠️ Tech Stack
+## Tech Used
 
 * **Language:** Python 3.11
 * **Computer Vision:** OpenCV
@@ -99,7 +102,7 @@ smart-surveillance-cv/
 └── .gitignore
 ```
 
-## ⚙️ Installation & Setup
+##  Setup
 
 ### 1. Clone the repository
 
