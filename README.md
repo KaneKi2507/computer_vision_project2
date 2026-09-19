@@ -1,4 +1,4 @@
-# 🎥 AI-Based Smart Surveillance & Object Tracking System
+# AI-Based Smart Surveillance & Object Tracking System
 
 <p align="center">
   <b>A modular Computer Vision system for intelligent video surveillance</b>
@@ -15,13 +15,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 The **AI-Based Smart Surveillance & Object Tracking System** is a Python-based Computer Vision project that processes video footage to detect and track objects, identify motion, and record surveillance events.
 
 The system combines YOLO-based object detection, persistent object tracking, motion analysis, and CSV-based event logging in a modular pipeline.
 
-## ✨ Features
+## Features
 
 | Feature                 | Description                                    |
 | ----------------------- | ---------------------------------------------- |
@@ -34,7 +34,7 @@ The system combines YOLO-based object detection, persistent object tracking, mot
 | 📊 Analytics            | Summarizes event counts and object information |
 | 🎬 Video Output         | Generates an annotated surveillance video      |
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
           ┌──────────────────┐
@@ -77,7 +77,7 @@ The system combines YOLO-based object detection, persistent object tracking, mot
 * **Testing:** Python test modules
 * **Version Control:** Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 smart-surveillance-cv/
@@ -126,7 +126,7 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-## ▶️ Run the Project
+## Run the Project
 
 Make sure the configured input video and YOLO model are available.
 
@@ -152,7 +152,7 @@ python -m tests.test_pipeline
 python -m tests.test_system
 ```
 
-## 📈 Sample Execution Results
+## Sample Execution Results
 
 The system was tested on the configured input video.
 
@@ -163,7 +163,7 @@ The system was tested on the configured input video.
 | Distinct tracker IDs in log |     23 |
 | Average logged confidence   |   0.69 |
 
-**Detected object categories included:**
+** Detected object categories included:**
 
 * Person
 * Traffic light
@@ -173,7 +173,7 @@ The system was tested on the configured input video.
 
 > Note: Logged events can include repeated observations of the same tracked object across multiple frames. Tracker IDs do not necessarily represent unique real-world individuals.
 
-## 📁 Output Files
+## Output Files
 
 Generated files are saved in the `output/` directory:
 
@@ -182,7 +182,7 @@ Generated files are saved in the `output/` directory:
 | `surveillance_output.mp4` | Annotated processed video    |
 | `events.csv`              | Recorded surveillance events |
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Apply Computer Vision concepts to a practical surveillance scenario.
 * Integrate object detection and tracking into a modular application.
@@ -190,7 +190,7 @@ Generated files are saved in the `output/` directory:
 * Record events and generate useful summaries.
 * Practice software design, testing, and version control.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Reduce duplicate event logging.
 * Add configurable detection and motion thresholds.
@@ -198,16 +198,9 @@ Generated files are saved in the `output/` directory:
 * Support live camera input.
 * Evaluate performance under different lighting and motion conditions.
 
-## 👨‍💻 Author
+## Repository
 
-**Aditya Saini**
-
-B.Tech — Computer Science & Engineering (AI & ML)
-VIT Bhopal University
-
-## 🔗 Repository
-
-[View the project on GitHub](https://github.com/adityasaini2005/smart-surveillance-cv)
+[View the project on GitHub](https://github.com/KaneKi2507/computer_vision_project2)
 
 ---
 
