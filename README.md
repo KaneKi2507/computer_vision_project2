@@ -109,7 +109,7 @@ smart-surveillance-cv/
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/KaneKi2507/computer_vision_project2.git)
+git clone https://github.com/KaneKi2507/computer_vision_project2.git
 cd smart-surveillance-cv
 ```
 
