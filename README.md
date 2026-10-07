@@ -110,7 +110,7 @@ smart-surveillance-cv/
 
 ```bash
 git clone https://github.com/KaneKi2507/computer_vision_project2.git
-cd smart-surveillance-cv
+cd computer_vision_project2 
 ```
 
 ### 2. Create a virtual environment
